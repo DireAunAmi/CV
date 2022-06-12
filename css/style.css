@@ -123,6 +123,13 @@ body {
 .contact-list a {
   font-size: 0.9rem;
   display: inline-block;
+  text-decoration: none;
+}
+.contact-list a:visited {
+  color: #c3fc9d;
+}
+.contact-list a:link {
+  color: #92bd75;
 }
 .contact-list .contact-icon {
   font-size: 0.8rem;

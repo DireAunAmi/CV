@@ -106,6 +106,13 @@ body {
 	a {
 		font-size: fz.$p;
 		display: inline-block;
+		text-decoration: none;
+	}
+	a:visited {
+		color: c.$fourth-color;
+	}
+	a:link {
+		color: c.$second-color;
 	}
 	.contact-icon {
 		font-size: 0.8rem;
