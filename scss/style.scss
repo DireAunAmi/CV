@@ -14,7 +14,7 @@ body {
 	grid-template-columns: repeat(6, 4fr);
 	grid-template-rows: repeat(5, 4fr);
 	margin: 50px auto;
-	width: 70%;
+	width: 600px;
 	background-color: colors.$third-color;
 }
 .line {
@@ -85,7 +85,7 @@ body {
 	grid-column: 1/3;
 	grid-row: 1/7;
 	background-color: colors.$fifth-color;
-	
+
 	h2 {
 		display: inline-block;
 	}

@@ -16,7 +16,7 @@ body {
   grid-template-columns: repeat(6, 4fr);
   grid-template-rows: repeat(5, 4fr);
   margin: 50px auto;
-  width: 70%;
+  width: 600px;
   background-color: #a8b1a2;
 }
 
