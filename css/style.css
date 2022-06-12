@@ -18,6 +18,8 @@ body {
   margin: 50px auto;
   width: 600px;
   background-color: #a8b1a2;
+  -webkit-box-shadow: 1px 1px 1px 1px black;
+          box-shadow: 1px 1px 1px 1px black;
 }
 
 .line {
@@ -129,7 +131,7 @@ body {
   color: #c3fc9d;
 }
 .contact-list a:link {
-  color: #92bd75;
+  color: #c3fc9d;
 }
 .contact-list .contact-icon {
   font-size: 0.8rem;
@@ -230,4 +232,8 @@ body {
 }
 .footer .clause {
   text-align: center;
+}
+
+[p] {
+  color: black;
 }/*# sourceMappingURL=style.css.map */
